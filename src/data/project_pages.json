@@ -1,0 +1,753 @@
+{
+  "lavka24": {
+    "title": "Лавка24Линия",
+    "titleColor": "#ffffff",
+    "pageBackgroundColor": "#000",
+    "backgroundColor": "#1F4B8B",
+    "firstTagColor": "#1F4B8B",
+    "heroImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782029387/%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0_gehzth.png",
+    "imageAlt": "Главный экран проекта Лавка24Линя",
+    "tags": ["Брендинг", "Айдентика", "SMM", "Дизайн", "Контент"],
+    "featured": true,
+    "year": "2026",
+    "client": "Лавка24Линия",
+    "industry": "Розничная торговля",
+    "workType": "Фирменный стиль & Контент дизайн",
+    "shortDescription": "Мясная лавка свежего мяса и продукции собственного производства, расположенная на 24 линии Васильевского острова",
+    "links": {
+      "vk": "https://vk.com/lavka24line",
+      "tg": "https://t.me/lavka24line_tg"
+    },
+    "clientDescription": "«Лавка 24 линия» — это мясной магазин с акцентом на качественный ассортимент и современную подачу локального бизнеса. Проект был направлен на создание более узнаваемого и премиального образа точки, которая работает в сегменте среднего и высокого дохода.",
+    "taskDescription": "Перед проектом стояла задача обновить и усилить позиционирование мясного магазина «Лавка 24 линия», чтобы выделить его среди локальных конкурентов и сделать более привлекательным для аудитории со средним и высоким доходом. У магазина отсутствовала цельная визуальная айдентика и единый стиль коммуникации, из-за чего он терялся как в офлайн-среде, так и в цифровых каналах (соцсети и сервисы доставки). Требовалось сформировать более современный, доверительный и узнаваемый образ бренда, а также повысить его заметность и конкурентоспособность на локальном рынке.",
+    "blocks": [
+      {
+        "type": "text",
+        "title": "Цвета",
+        "text": "Основным цветом фирменного стиля был выбран синий, что позволило визуально отстроить бренд от типичных конкурентов, которые чаще используют «мясную» красно-бордовую палитру. Дополнительно синий работает как температурная противоположность красному, за счёт чего продукт (мясо) на его фоне выглядит более выразительно, свежо и контрастно. Такое цветовое решение усиливает восприятие качества и помогает выделить ассортимент в визуальной коммуникации как в офлайн-точке, так и в цифровых каналах."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_1_hkvulc.png",
+            "alt": "Фирменные цвета"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Шрифты",
+        "text": "В типографике проекта использованы два контрастных шрифта, которые вместе формируют баланс между характером бренда и удобством восприятия. Amatic SC — рукописный декоративный шрифт, который передаёт ощущение ручного труда и подчёркивает, что продукция магазина создаётся «своими руками», с вниманием к деталям и традициям. В паре с ним используется Manrope — современный гротеск с высокой читаемостью, который обеспечивает чистую и структурированную подачу информации в интерфейсах и текстовых блоках. Такое сочетание позволяет одновременно сохранить эмоциональность бренда и сделать коммуникацию понятной и удобной для пользователя."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_2_vdfsbn.png",
+            "alt": "Шрифт Amatic SC"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_3_vsoooc.png",
+            "alt": "Шрифт Manrope"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Контент",
+        "text": "Контент в социальных сетях был выстроен вокруг трёх ключевых направлений: продающего, обучающего и развлекательного. Продающие посты акцентируют внимание на ассортименте и выгодах, обучающие помогают аудитории лучше разбираться в выборе мяса и способах приготовления, а развлекательные делают бренд более живым и человечным. Такой подход позволил уйти от образа сухого и утилитарного мясного магазина и сформировать более тёплую, вовлекающую коммуникацию с аудиторией, где бренд воспринимается не только как точка продаж, но и как эксперт и часть повседневной культуры питания."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_4_cjnpjb.png",
+            "alt": "Примеры контента Лавка24Линия"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_5_mjzasw.png",
+            "alt": "Примеры контента Лавка24Линия"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_6_jxbevu.png",
+            "alt": "Примеры контента Лавка24Линия"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_7_wdfl0y.png",
+            "alt": "Примеры контента Лавка24Линия"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Яндекс Карты",
+        "text": "Для продвижения магазина были проработаны и оформлены карточки в «Яндекс Картах», чтобы повысить информативность и привлекательность точки для новых клиентов. В рамках работы также были созданы сторис с актуающими предложениями, ассортиментом и акцентами на ключевых преимуществах магазина. Это позволило улучшить визуальное присутствие бренда в экосистеме «Яндекса» и сделать взаимодействие с клиентами более живым и регулярным."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963992/Project_1_8_afcys7.png",
+            "alt": "Оформление Яндекс карт"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781963993/Project_1_9_bciv5e.png",
+            "alt": "Примеры фотоконтента"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Видеоконтент",
+        "text": "В рамках проекта также был разработан видеоконтент, направленный на усиление визуального восприятия бренда и повышение вовлечённости аудитории. Короткие ролики демонстрируют продукцию, процесс подготовки и атмосферу магазина, делая акцент на качестве и «живом» характере бренда. Такой формат позволил сделать коммуникацию более динамичной и современной, а также лучше передать ощущение натуральности и ручного подхода к продукту."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1781963996/Project_1_10_bd6rfg.mp4",
+            "alt": "Примеры видеоконтента"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Полиграфия",
+        "text": "Также была разработана печатная продукция для офлайн-коммуникации бренда: ценники, листовки и другие носители, используемые в магазине. Дизайн выполнен в едином стиле с общей айдентикой, что позволило поддержать целостность визуального образа и сделать точку продаж более аккуратной и узнаваемой. Печатные материалы усиливают восприятие бренда в пространстве магазина и помогают транслировать ключевые преимущества продукции напрямую покупателю."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1781969091/Project_1_11_nyq3pe.png",
+            "alt": "Примеры плакатов"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/q_auto,f_auto/v1782223963/Project_1_12_miator.png",
+            "alt": "Флаер"
+          }
+        ]
+      }
+    ]
+  },
+  "season": {
+    "title": "Сезон",
+    "titleColor": "#E86A33",
+    "pageBackgroundColor": "#000000",
+    "backgroundColor": "#E86A33",
+    "firstTagColor": "#E86A33",
+    "heroImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782157491/Preview_3_kazpzc.png",
+    "imageAlt": "Главный экран проекта Сезон",
+    "tags": [
+      "Лендинг",
+      "Концепт кофейни",
+      "UI/UX",
+      "Веб-дизайн"
+    ],
+    "featured": true,
+    "year": "2026",
+    "client": "Сезон",
+    "industry": "Кофейня / HoReCa",
+    "workType": "UX/UI концепт лендинга",
+    "shortDescription": "Концепт лендинга кофейни, в которой меню адаптируется под погоду и сезонные изменения, создавая персонализированный пользовательский опыт.",
+    "links": {
+      "website": "https://legiumprof.github.io/Season_landing/"
+    },
+    "clientDescription": "«Сезон» — концептуальная кофейня, построенная вокруг идеи изменения меню в зависимости от погоды и времени года. Проект исследует, как цифровой интерфейс может усиливать эмоциональную связь между пользователем и продуктом, превращая выбор кофе в более персональный и контекстный опыт.",
+    "taskDescription": "Перед проектом стояла задача разработать лендинг для кофейни с нестандартной идеей динамического меню, которое меняется в зависимости от погодных условий. Важно было не просто визуально представить продукт, а выстроить ощущение живого интерфейса, который реагирует на контекст пользователя и усиливает эмоциональную вовлечённость в выбор напитка.",
+    "blocks": [
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156560/Project_2_1_svlg07.png",
+            "alt": "Каталог кофейни"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Идея, которая реагирует на пользователя",
+        "text": "В основе проекта лежит мысль о том, что цифровой продукт может быть не статичным, а контекстным. Меню кофейни подстраивается под внешние условия, создавая ощущение, что интерфейс «понимает» настроение пользователя и предлагает наиболее подходящие вкусы в конкретный момент."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156556/Project_2_2_dk7rb1.png",
+            "alt": "Стакан кофе"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156557/Project_2_3_rjzkxr.png",
+            "alt": "Сезонные напитки"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782201903/0623_1_rxzk2q.mp4",
+            "alt": "Видео лендинга кофейни"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156560/Project_2_4_l7ls5e.png",
+            "alt": "Интерьер кофейни"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Опыт, построенный вокруг атмосферы",
+        "text": "Особое внимание в проекте уделено тому, как пользователь воспринимает пространство бренда через интерфейс. Лендинг не просто информирует, а формирует ощущение места — тёплого, живого и сезонного. Это позволяет усилить эмоциональную связь ещё до реального визита в кофейню."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156555/Project_2_5_ngj663.png",
+            "alt": "Отзывы"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156558/Project_2_6_xws61u.png",
+            "alt": "Информация о кофейне"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Настроение как основа выбора",
+        "text": "Финальная часть концепта строится вокруг идеи эмоционального выбора. Пользователь ориентируется не только на вкус или ингредиенты, но и на собственное состояние. Такой подход делает взаимодействие с продуктом более интуитивным и запоминающимся, превращая простой выбор напитка в небольшой личный ритуал."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782156560/Project_2_7_zvkumd.png",
+            "alt": "4 настроения и вкусы"
+          }
+        ]
+      }
+    ]
+  },
+  "flowermagic": {
+    "title": "FlowerMagic",
+    "titleColor": "#ffffff",
+    "pageBackgroundColor": "#000000",
+    "backgroundColor": "#F5799B",
+    "firstTagColor": "#F5799B",
+    "heroImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206669/Project_3_Preview_bqki9o.png",
+    "imageAlt": "Редизайн сайта FlowerMagic",
+    "tags": [
+      "Редизайн",
+      "Веб-дизайн",
+      "UI/UX",
+      "Конверсия"
+    ],
+    "featured": true,
+    "year": "2026",
+    "client": "FlowerMagic",
+    "industry": "Цветочный бизнес / E-commerce",
+    "workType": "Редизайн сайта",
+    "shortDescription": "Редизайн сайта цветочного магазина с доставкой, направленный на повышение конверсии, улучшение структуры и обновление визуального стиля.",
+    "links": {},
+    "clientDescription": "FlowerMagic — сервис по продаже и доставке цветов. Проект фокусируется на быстром выборе букетов, удобной навигации и визуально приятной подаче продукции, которая должна вызывать эмоцию уже на этапе выбора.",
+    "taskDescription": "Перед редизайном стояла задача обновить устаревший интерфейс сайта и сделать его более современным, лёгким и коммерчески эффективным. Важно было улучшить пользовательский путь от первого захода до оформления заказа, а также усилить визуальную привлекательность каталога и ключевых промо-секций.",
+    "blocks": [
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206669/Project_3_1_afotzr.png",
+            "alt": "Hero section до редизайна"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206669/Project_3_2_zftmkp.png",
+            "alt": "Hero section после редизайна"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Обновление визуальной логики",
+        "text": "Редизайн был направлен на то, чтобы сделать интерфейс более лёгким, современным и эмоциональным. Основной акцент сместился на визуализацию продукта и сокращение лишних элементов, которые мешали быстрому принятию решения пользователем."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206669/Project_3_3_w61euf.png",
+            "alt": "Мобильная версия до редизайна"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206669/Project_3_4_ltyjoj.png",
+            "alt": "Мобильная версия после редизайна"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Фокус на удобстве выбора",
+        "text": "Особое внимание было уделено тому, как пользователь взаимодействует с каталогом. Структура была упрощена, а визуальные акценты переработаны так, чтобы выбор букета занимал меньше времени и воспринимался интуитивно."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206670/Project_3_5_r1b1we.png",
+            "alt": "Каталог до редизайна"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206670/Project_3_6_exfp2y.png",
+            "alt": "Каталог после редизайна"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206670/Project_3_7_sipjjt.png",
+            "alt": "Информация до редизайна"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206670/Project_3_8_gcch4i.png",
+            "alt": "Информация после редизайна"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Коммерческая структура",
+        "text": "Сайт был переосмыслен с точки зрения конверсии: ключевые предложения и акции стали более заметными и логично встроенными в пользовательский путь. Это позволило усилить вовлечение и повысить вероятность совершения покупки."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206671/Project_3_9_z9oe0y.png",
+            "alt": "Акции до редизайна"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206671/Project_3_10_xdn5oz.png",
+            "alt": "Акции после редизайна"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206889/Project_3_11_twqtjq.png",
+            "alt": "Footer на десктопе"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206890/Project_3_12_hm4eau.png",
+            "alt": "Процесс работы секции"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206672/Project_3_13_jxtqn7.png",
+            "alt": "Мобильный каталог"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206671/Project_3_14_lamkm0.png",
+            "alt": "Контент сайта на мобильном"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206672/Project_3_15_ifqh4q.png",
+            "alt": "Процесс на мобильном"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782206672/Project_3_16_iebw2d.png",
+            "alt": "Цитаты на мобильном"
+          }
+        ]
+      }
+    ]
+  },
+  "mafia": {
+    "title": "Мафия: игра на выживание",
+    "titleColor": "#ffffff",
+    "pageBackgroundColor": "#000000",
+    "backgroundColor": "#0B0E21",
+    "firstTagColor": "#7F1C16",
+    "heroImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782221943/Preview_4_fkoep6.png",
+    "imageAlt": "Концепт мероприятия Мафия: игра на выживание",
+    "tags": [
+      "Контент дизайн",
+      "SMM дизайн",
+      "Социальные сети",
+      "Анимация"
+    ],
+    "featured": true,
+    "year": "2026",
+    "client": "Мафия: игра на выживание",
+    "industry": "Развлекательные мероприятия",
+    "workType": "SMM концепт и визуальная коммуникация",
+    "shortDescription": "Концепт офлайн-мероприятия в стиле игры Reigns с разработкой визуальной айдентики и SMM-контента для привлечения участников.",
+    "links": {},
+    "clientDescription": "«Мафия: игра на выживание» — офлайн-мероприятие, основанное на социальной игре с элементами стратегии и взаимодействия между участниками. Проект был направлен на создание визуального образа, который усиливает атмосферу напряжения, выбора и интриги.",
+    "taskDescription": "Перед проектом стояла задача разработать визуальную коммуникацию для привлечения участников на офлайн-мероприятие. Важно было создать узнаваемую стилистику, которая бы передавала атмосферу игры, интригу и ощущение постоянного выбора. В качестве визуального референса была выбрана эстетика игры Reigns.",
+    "blocks": [
+      {
+        "type": "media",
+        "layout": "double",
+        "aspectRatio": "square",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782215265/Frame_337_owe1ww.png",
+            "alt": "Сторис приглашение"
+          },
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782215265/0623_2_1_pbjxce.mp4",
+            "alt": "Видео сторис приглашение"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Атмосфера выбора и напряжения",
+        "text": "Визуальная система проекта строится вокруг идеи постоянного выбора, как ключевого элемента игры. Каждый элемент коммуникации должен был создавать ощущение вовлечённости и лёгкого напряжения, характерного для социальных стратегий."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "aspectRatio": "3/1",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782215261/IMG0004_3_htckpd.png",
+            "alt": "Шапка ВК"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "aspectRatio": "square",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782215264/Frame_1_kcp1x2.png",
+            "alt": "Пост для соцсетей"
+          },
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782215266/0623_2_2_l2s5dm.mp4",
+            "alt": "Анимация поста"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Стилистика Reigns",
+        "text": "Визуальный стиль вдохновлён игрой Reigns — минималистичный, контрастный и символичный. Такой подход позволил сфокусировать внимание на смысле и эмоциональном состоянии пользователя, а не на перегруженной графике."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "aspectRatio": "16/9",
+        "items": [
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782215264/0623_2_3_snvrdr.mp4",
+            "alt": "Механика выбора цели"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Интерактивные механики",
+        "text": "В рамках концепта были разработаны интерактивные сценарии, демонстрирующие ключевые игровые механики: выбор роли, выбор цели и построение последовательности событий. Это усиливает ощущение игры ещё на этапе знакомства с мероприятием."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "aspectRatio": "16/9",
+        "items": [
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782215262/0623_2_4_i0vwqu.mp4",
+            "alt": "Выбор роли"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "aspectRatio": "16/9",
+        "items": [
+          {
+            "mediaType": "video",
+            "url": "https://res.cloudinary.com/dasip9jjs/video/upload/v1782215274/2026-06-23_13-13-10_aynqwq.mp4",
+            "alt": "Расписание мероприятия"
+          }
+        ]
+      }
+    ]
+  },
+  "mesto": {
+    "title": "Место",
+    "titleColor": "#ffffff",
+    "pageBackgroundColor": "#000000",
+    "backgroundColor": "#F25100",
+    "firstTagColor": "#F25100",
+    "heroImage": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313714/Project_5_Preview_2_fqpqjd.png",
+    "imageAlt": "Проект Место",
+    "tags": [
+      "Веб-проект",
+      "UX/UI",
+      "Исследование",
+      "Командная работа",
+      "Культурное пространство"
+    ],
+    "featured": true,
+    "year": "2026",
+    "client": "Место",
+    "industry": "Культура и образование",
+    "workType": "Исследование, UX/UI дизайн и фронтенд-разработка",
+    "shortDescription": "Концепт мультифункционального пространства в центре Владимира, объединяющего отдых, обучение, творчество и культурные мероприятия на одной площадке.",
+    "links": {},
+    "clientDescription": "«Место» — концепция общественного пространства, которое объединяет библиотеку, кафе, образовательные активности, культурные мероприятия и зоны для работы и отдыха. Основная идея проекта заключается в создании точки притяжения для разных аудиторий города, где каждый может найти формат досуга под свои интересы.",
+    "taskDescription": "Проект разрабатывался в команде и включал исследование аудитории, проектирование пользовательского опыта, создание дизайна и разработку сайта. Моей зоной ответственности были сбор и анализ информации, участие в разработке интерфейса, а также вёрстка сайта. Основной задачей было создать цифровую платформу, способную показать разнообразие функций пространства и сделать взаимодействие с ними понятным для посетителей.",
+    "blocks": [
+      {
+        "type": "text",
+        "title": "От идеи к цифровому продукту",
+        "text": "Работа над проектом началась с исследования аудитории и анализа городских пространств. Было важно понять, какие сценарии использования наиболее востребованы и каким должен быть сервис, чтобы одинаково комфортно восприниматься студентами, семьями, творческими сообществами и посетителями культурных мероприятий."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313611/Project_5_1_fuyjld.png",
+            "alt": "Wireframes мобильной версии"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313611/Project_5_2_jvueca.png",
+            "alt": "Wireframes десктопной версии"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Проектирование сложной экосистемы",
+        "text": "Одной из главных задач стало объединение множества направлений в рамках единого интерфейса. Пользователь должен быстро понимать, где найти мероприятия, забронировать пространство, ознакомиться с новостями или воспользоваться сервисами площадки. Поэтому особое внимание уделялось структуре и навигации."
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313614/Project_5_3_ojo40i.png",
+            "alt": "Главная страница"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313621/Project_5_4_a2uinv.png",
+            "alt": "Новости и блог"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "single",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313615/Project_5_5_sby1uf.png",
+            "alt": "Каталог кафе"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Единая точка взаимодействия",
+        "text": "Сайт проектировался как цифровой центр всего пространства. Вместо отдельных разрозненных сервисов пользователь получает единую среду, где может узнать о событиях, изучить доступные возможности, найти информацию о резидентах и спланировать своё посещение."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313610/Project_5_6_vqvgaa.png",
+            "alt": "Страница сотрудничества"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313612/Project_5_7_bikf8z.png",
+            "alt": "Каталог книг"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313612/Project_5_8_sgxqzr.png",
+            "alt": "Главная страница мобильная версия"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313614/Project_5_9_fiuvo1.png",
+            "alt": "Афиша мероприятий"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "title": "Командная работа",
+        "text": "Проект стал результатом совместной работы команды, в которой исследование, дизайн и разработка тесно взаимодействовали между собой. Моё участие охватывало этапы сбора информации, проектирования интерфейса и последующей вёрстки, что позволило сохранить связь между концепцией и её реализацией."
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313614/Project_5_10_wvsleg.png",
+            "alt": "Лента блога"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313615/Project_5_11_publuj.png",
+            "alt": "Планы и тарифы"
+          }
+        ]
+      },
+      {
+        "type": "media",
+        "layout": "double",
+        "items": [
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313615/Project_5_12_qooaav.png",
+            "alt": "Аренда пространства"
+          },
+          {
+            "mediaType": "image",
+            "url": "https://res.cloudinary.com/dasip9jjs/image/upload/v1782313610/Project_5_13_p9p032.png",
+            "alt": "Афиша мероприятий"
+          }
+        ]
+      }
+    ]
+  }
+}
